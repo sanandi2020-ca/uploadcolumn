@@ -1,1 +1,1 @@
-ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
