@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Improve Docs Modes tables (#8266)
