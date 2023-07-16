@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+ultralytics 8.1.33 fix HUB model checks (#9153)
