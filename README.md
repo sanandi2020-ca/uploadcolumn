@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
