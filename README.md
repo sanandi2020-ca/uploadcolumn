@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Update Discord and Contributing Guide URLs (#9270)
