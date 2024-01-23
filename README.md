@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
