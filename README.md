@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Auto-format by https://ultralytics.com/actions
