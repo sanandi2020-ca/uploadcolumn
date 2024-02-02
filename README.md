@@ -1,1 +1,1 @@
-add yolov10
+Use pathlib in DOTA ops (#7552)
