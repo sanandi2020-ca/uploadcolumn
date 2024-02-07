@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
