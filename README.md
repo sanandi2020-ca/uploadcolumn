@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Update CI.md with CI links (#8786)
