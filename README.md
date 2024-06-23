@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Update fraction arg to employ a random selection (#8234)
