@@ -1,1 +1,1 @@
-fix predict with class filter
+OBB: Fix when training on zip data (#8680)
