@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
