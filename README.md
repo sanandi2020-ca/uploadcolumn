@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Merge pull request #22 from SkalskiP/patch-1
