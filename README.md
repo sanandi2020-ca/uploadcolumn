@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Fix Multi-GPU resume bug (#7328)
