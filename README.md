@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Add quantization support to TensorFlow.js converter (#7008)
