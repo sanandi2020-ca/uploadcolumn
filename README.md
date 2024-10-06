@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
